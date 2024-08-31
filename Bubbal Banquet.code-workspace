@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "Bubbal Banquet",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Bubbal Banquet",
+		"liveServer.settings.port": 5501
+	}
+}
