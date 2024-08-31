@@ -346,10 +346,12 @@ section{
 }
 
 .containerCU .contactInfo .box .text h3{
-    font-weight:500;
+    font-weight:650px;
     color:var(--purple-solid);
 
 }
+
+
 
 .contactForm{
     width: 40%;
