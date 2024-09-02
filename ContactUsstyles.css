@@ -568,4 +568,8 @@ section{
     .contactForm{
         width:100%;
     }
+    .contact .content h2{
+        margin-top: 15px;
+    }
+    
 }
